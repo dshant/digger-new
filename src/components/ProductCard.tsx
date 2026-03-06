@@ -11,7 +11,6 @@ const ProductCard = ({ chip, title, description, href }: ProductCardProps) => (
   <a
     href={href}
     target="_blank"
-    rel="noopener noreferrer"
     className="group block rounded-xl border border-border p-8 transition-all duration-300 bg-white hover:bg-foreground hover:border-foreground"
   >
     <div className="flex items-start justify-between mb-4">

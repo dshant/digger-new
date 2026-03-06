@@ -7,9 +7,8 @@ const Header = () =>
         digger
       </a>
       <a
-      href="https://github.com"
+      href="https://github.com/diggerhq/digger"
       target="_blank"
-      rel="noopener noreferrer"
       className="flex items-center gap-1 text-muted-foreground hover:text-foreground transition-colors text-sm"
       aria-label="GitHub">
         <Github className="w-4 h-4" />
